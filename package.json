@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-facerecognition",
+  "version": "1.0.0",
+  "description": "人脸活体检测插件",
+  "cordova": {
+    "id": "cordova-plugin-facerecognition",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Txiaomo/cordova-plugin-facerecognition.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "vision",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Txiaomo/cordova-plugin-facerecognition/issues"
+  },
+  "homepage": "https://github.com/Txiaomo/cordova-plugin-facerecognition#readme"
+}
